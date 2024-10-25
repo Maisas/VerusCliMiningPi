@@ -6,10 +6,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RDr9ADXygMrk4M77eM7h5Zwf33GsUZfEnA.S24ultra_fake_001",
+	"user": "RDr9ADXygMrk4M77eM7h5Zwf33GsUZfEnA.Galaxy_A14",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 10,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
